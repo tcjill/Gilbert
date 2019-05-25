@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gilbert</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_eats">Eats</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_bars">Bars</string>
+</resources>
+
